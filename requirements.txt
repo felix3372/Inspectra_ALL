@@ -1,0 +1,10 @@
+streamlit
+openpyxl
+watchdog
+numpy
+tldextract
+pycountry
+phonenumbers
+streamlit_lottie
+rapidfuzz
+plotly
