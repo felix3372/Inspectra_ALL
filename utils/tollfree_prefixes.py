@@ -1,0 +1,21 @@
+TOLLFREE_PREFIXES = {
+    "united states": ["800", "888", "877", "866", "855", "844", "833", "822", "811", "899"],
+    "canada": ["800", "888", "877", "866", "855", "844", "833", "822", "811", "899"],
+    "united kingdom": ["800", "808"],
+    "australia": ["1800", "1300", "800", "300"],
+    "india": ["1800"],
+    "germany": ["800"],
+    "france": ["800"],
+    "new zealand": ["0800"],
+    "south africa": ["0800"],
+    "japan": ["0120", "0800"],
+    "mexico": ["800"],
+    "brazil": ["0800"],
+    "italy": ["800"],
+    "netherlands": ["0800"],
+    "spain": ["900"],
+    "sweden": ["020"],
+    "switzerland": ["0800"],
+    "argentina": ["0800"],
+    # Add more countries as needed
+}
