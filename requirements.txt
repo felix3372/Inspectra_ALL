@@ -8,3 +8,5 @@ phonenumbers
 streamlit_lottie
 rapidfuzz
 plotly
+reportlab
+
